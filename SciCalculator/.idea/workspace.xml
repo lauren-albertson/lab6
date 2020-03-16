@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="099b18c5-47b5-4e2c-8ba7-3f1b9c28334d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SciCalculator" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wz80SozQ0Ot2oZTFKcegBq2sO3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SciCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SciCalculator" />
+      <module name="SciCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SciCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="099b18c5-47b5-4e2c-8ba7-3f1b9c28334d" name="Default Changelist" comment="" />
+      <created>1580140840760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580140840760</updated>
+      <workItem from="1580140847154" duration="2939000" />
+      <workItem from="1580143985803" duration="377000" />
+      <workItem from="1580145409372" duration="211000" />
+      <workItem from="1580145625199" duration="64000" />
+      <workItem from="1580145693922" duration="216000" />
+      <workItem from="1580145914161" duration="46000" />
+      <workItem from="1580255091398" duration="6552000" />
+      <workItem from="1580736360489" duration="3147000" />
+      <workItem from="1580745615674" duration="6000" />
+      <workItem from="1580746279221" duration="543000" />
+      <workItem from="1580785772830" duration="4000" />
+      <workItem from="1580831046521" duration="29000" />
+      <workItem from="1580851765076" duration="733000" />
+      <workItem from="1581632925614" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="206" key="GridCell.Tab.0.bottom" timestamp="1580739527521">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1580739527521" />
+    <state width="1358" height="206" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1580736615376" />
+    <state width="1358" height="206" key="GridCell.Tab.0.center" timestamp="1580739527520">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1580739527520" />
+    <state width="1358" height="206" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1580736615374" />
+    <state width="1358" height="206" key="GridCell.Tab.0.left" timestamp="1580739527519">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1580739527519" />
+    <state width="1358" height="206" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1580736615373" />
+    <state width="1358" height="206" key="GridCell.Tab.0.right" timestamp="1580739527520">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1580739527520" />
+    <state width="1358" height="206" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1580736615375" />
+    <state x="433" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1580745619900">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="433" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1580745619900" />
+    <state x="490" y="199" key="extract.method.dialog" timestamp="1580736561249">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="490" y="199" key="extract.method.dialog/0.23.1440.812@0.23.1440.812" timestamp="1580736561249" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1580141668832">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.811@0.23.1440.811" timestamp="1580141668832" />
+    <state x="405" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1580255423305">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="405" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1580255423305" />
+  </component>
+</project>
